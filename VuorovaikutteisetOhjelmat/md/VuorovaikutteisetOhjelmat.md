@@ -60,8 +60,6 @@ Esimerkkejä merkkijonoliteraaleista:
 - `"A2"`
 - `"Tässä on pitkä palanen tekstiä."`
 
-
-
 Lainausmerkeistä JavaScript-tulkki tunnistaa, että kyseessä on merkkijonoliteraali.
  Tällöin tulkki osaa
 käsitellä sitä oikein, esimerkiksi pyydettäessä tulostaa sen sisällön sellaisenaan.
